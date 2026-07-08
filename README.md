@@ -51,157 +51,109 @@
 <img src="https://img.shields.io/badge/Optimizing-For%20Humans-334155?style=flat-square"/>
 
 </div>
-
-# About Me
-
-I don't view software as code.
-
-I view it as:
-
-```text
-People
-↓
-Problems
-↓
-Constraints
-↓
-Systems
-↓
-Trade-offs
-↓
-Execution
-↓
-Impact
-```
-
-Code is merely the final artifact of a design process.
-
-My interest lies in understanding **why systems work, why they fail, and how they evolve as scale changes the rules.**
-
----
-
-# What Drives Me
-
-🧠 Solving difficult problems.
-
-🏗 Designing systems before writing code.
-
-⚙ Thinking in abstractions and leverage.
-
-📈 Understanding scale and bottlenecks.
-
-🌍 Building products that matter.
-
----
-
-# Engineering Principles
-
-### Systems compound. Features don't.
-
-### Complexity should exist in architecture, not in usage.
-
-### Good engineering removes decisions from users.
-
-### Every abstraction introduces a trade-off.
-
-### The best systems feel inevitable once built.
-
----
-
-# Current Exploration
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,postgres,redis" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ZAID&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=System+Architecture;Distributed+Systems;AI+Infrastructure;Product+Engineering;Cloud+Architecture;Building+for+Scale;Turning+Complexity+into+Clarity"/>
+
+<br>
+
+<a href="https://zaid-sayyed.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Universe-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,nextjs,react" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,typescript,nodejs,nextjs,postgres,redis,supabase,git,github,cloudflare"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=supabase,git,github,figma,vscode" />
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Systems-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Engineering-64748B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# Building
-
-### Syncell
-
-Designing healthcare timelines around continuity of information rather than isolated medical events.
-
----
-
-### AI Systems
-
-Exploring orchestration, agents, context engineering and long-term memory systems.
-
----
-
-### Developer Infrastructure
-
-Interested in tooling that improves how engineers build and ship software.
-
----
-
-# Current Obsessions
-
-* Distributed Systems
-* AI Infrastructure
-* Cloud Architecture
-* System Design
-* Developer Experience
-* Product Strategy
-* Human Computer Interaction
-
----
-
-# Architecture Mindset
+## 🏗 Architecture Mindset
 
 ```text
-Observe
-  ↓
-Model
-  ↓
-Abstract
-  ↓
-Design
-  ↓
-Validate
-  ↓
+People
+ ↓
+Problems
+ ↓
+Constraints
+ ↓
+Systems
+ ↓
+Trade-offs
+ ↓
 Scale
+ ↓
+Impact
+```
+
+---
+
+## ⚡ Building
+
+| Project          | Focus                           |
+| ---------------- | ------------------------------- |
+| 🏥 Syncell       | Longitudinal Healthcare Systems |
+| 🤖 AI Systems    | Agents • Memory • Orchestration |
+| ⚙ Infrastructure | Tooling • Automation • DX       |
+| 🚀 Products      | Architecture First Design       |
+
+---
+
+## 🧠 Current Obsessions
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Distributed_Systems-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Infrastructure-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/System_Design-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Developer_Experience-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product_Strategy-0EA5E9?style=flat-square"/>
+
+</p>
+
+---
+
+## ⚙ Engineering Principles
+
+```text
+Systems Compound
+Features Expire
+
+Architecture is Strategy
+
+Every Abstraction
+Has a Cost
+
+Complexity Belongs
+Behind Interfaces
 ```
 
 ---
 
 <div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450"/>
+
+<br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-## "The engineer's responsibility isn't writing code."
-
-## "It's reducing complexity."
-
-<br>
-
 ### Building systems for the long game.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&animation=fadeIn&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
 </div>
