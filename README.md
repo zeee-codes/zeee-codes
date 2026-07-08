@@ -157,3 +157,157 @@ Behind Interfaces
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
 </div>
+
+# About Me
+
+I don't view software as code.
+
+I view it as:
+
+```text
+People
+↓
+Problems
+↓
+Constraints
+↓
+Systems
+↓
+Trade-offs
+↓
+Execution
+↓
+Impact
+```
+
+Code is merely the final artifact of a design process.
+
+My interest lies in understanding **why systems work, why they fail, and how they evolve as scale changes the rules.**
+
+---
+
+# What Drives Me
+
+🧠 Solving difficult problems.
+
+🏗 Designing systems before writing code.
+
+⚙ Thinking in abstractions and leverage.
+
+📈 Understanding scale and bottlenecks.
+
+🌍 Building products that matter.
+
+---
+
+# Engineering Principles
+
+### Systems compound. Features don't.
+
+### Complexity should exist in architecture, not in usage.
+
+### Good engineering removes decisions from users.
+
+### Every abstraction introduces a trade-off.
+
+### The best systems feel inevitable once built.
+
+---
+
+# Current Exploration
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,postgres,redis" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,nextjs,react" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=supabase,git,github,figma,vscode" />
+
+</div>
+
+---
+
+# Building
+
+### Syncell
+
+Designing healthcare timelines around continuity of information rather than isolated medical events.
+
+---
+
+### AI Systems
+
+Exploring orchestration, agents, context engineering and long-term memory systems.
+
+---
+
+### Developer Infrastructure
+
+Interested in tooling that improves how engineers build and ship software.
+
+---
+
+# Current Obsessions
+
+* Distributed Systems
+* AI Infrastructure
+* Cloud Architecture
+* System Design
+* Developer Experience
+* Product Strategy
+* Human Computer Interaction
+
+---
+
+# Architecture Mindset
+
+```text
+Observe
+  ↓
+Model
+  ↓
+Abstract
+  ↓
+Design
+  ↓
+Validate
+  ↓
+Scale
+```
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## "The engineer's responsibility isn't writing code."
+
+## "It's reducing complexity."
+
+<br>
+
+### Building systems for the long game.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&animation=fadeIn&color=gradient"/>
+
+</div>
