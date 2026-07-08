@@ -1,252 +1,159 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Zaid.
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=System+Architect+in+Progress;Building+Systems%2C+not+just+Software;Problem+Solver+%7C+Product+Engineer;Turning+Complexity+into+Clarity;Engineering+for+Scale+and+Impact" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=ZAID%20SAYYED&fontSize=65&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=gradient"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=1000&lines=Designing+systems+that+solve+meaningful+problems.;Turning+complexity+into+clarity.;Engineering+products+for+scale.;Architecture+first.+Implementation+second.;Systems.+Trade-offs.+Leverage.;Building+for+the+long+game." />
+
+<br>
+
+<img src="https://img.shields.io/badge/System%20Thinker-0A66C2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-2563EB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Product%20Engineer-4F46E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Architecture%20Focused-7C3AED?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Design%20Systems.%20Solve%20Problems.&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=ffffff"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450"/>
 
 </div>
 
 ---
 
-## Architecture > Implementation
+# About Me
 
-Most software problems aren't code problems.
+I don't view software as code.
 
-They're problems of:
-
-* incentives
-* communication
-* scale
-* abstractions
-* constraints
-* human behavior
-* trade-offs
-
-Code is simply the final expression of a system that has already been designed.
-
-I enjoy decomposing ambiguity into clear systems that scale.
-
----
-
-## My Engineering Philosophy
+I view it as:
 
 ```text
-Understand the Problem
-        ↓
-Identify Constraints
-        ↓
-Model the System
-        ↓
-Evaluate Trade-offs
-        ↓
-Build for Scale
-        ↓
-Optimize for Humans
+People
+↓
+Problems
+↓
+Constraints
+↓
+Systems
+↓
+Trade-offs
+↓
+Execution
+↓
+Impact
 ```
 
-I don't chase technologies.
+Code is merely the final artifact of a design process.
 
-I chase leverage.
-
----
-
-## What I'm Building Towards
-
-```yaml
-identity:
-  role: System Architect
-  mindset: First Principles Thinking
-  mission: Build products that solve meaningful problems
-
-interests:
-  - Distributed Systems
-  - AI Systems
-  - Cloud Infrastructure
-  - Product Engineering
-  - Developer Tools
-  - System Design
-  - Human Computer Interaction
-
-currently_learning:
-  - Large Scale System Design
-  - Cloud Architecture
-  - AI Infrastructure
-  - Performance Engineering
-```
+My interest lies in understanding **why systems work, why they fail, and how they evolve as scale changes the rules.**
 
 ---
 
-## Engineering Principles
+# What Drives Me
 
-### 01 — Systems over Features
+🧠 Solving difficult problems.
 
-Features age quickly.
+🏗 Designing systems before writing code.
 
-Systems compound.
+⚙ Thinking in abstractions and leverage.
 
----
+📈 Understanding scale and bottlenecks.
 
-### 02 — Simplicity is an Engineering Achievement
-
-The best architecture often feels obvious in hindsight.
+🌍 Building products that matter.
 
 ---
 
-### 03 — Constraints Create Innovation
+# Engineering Principles
 
-Good engineers remove complexity.
+### Systems compound. Features don't.
 
-Great engineers use it strategically.
+### Complexity should exist in architecture, not in usage.
 
----
+### Good engineering removes decisions from users.
 
-### 04 — Scale Should Be Designed, Not Added Later
+### Every abstraction introduces a trade-off.
 
-Architecture decisions are business decisions.
-
----
-
-### 05 — Technology Exists to Serve People
-
-Developer experience matters.
-
-User experience matters more.
+### The best systems feel inevitable once built.
 
 ---
 
-## Current Focus
+# Current Exploration
 
-🧠 Designing AI-native products
+<div align="center">
 
-⚙️ Learning distributed systems and cloud architecture
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,postgres,redis" />
 
-🚀 Building startup-grade products from first principles
+<br><br>
 
-📚 Studying system design and engineering trade-offs
+<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,nextjs,react" />
 
-🌍 Solving real problems with technology
+<br><br>
 
----
+<img src="https://skillicons.dev/icons?i=supabase,git,github,figma,vscode" />
 
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
-</p>
+</div>
 
 ---
 
-## Current Projects
+# Building
 
 ### Syncell
 
-A longitudinal healthcare timeline platform designed around continuity of medical information.
-
-Focus:
-
-* Data relationships
-* Timeline architecture
-* Collaboration systems
-* Information accessibility
+Designing healthcare timelines around continuity of information rather than isolated medical events.
 
 ---
 
-### Scalerix
+### AI Systems
 
-Building scalable systems and products with architecture-first thinking.
-
----
-
-## What Excites Me
-
-* Designing systems that survive scale
-* Understanding how products evolve over time
-* Developer infrastructure
-* AI agents and orchestration
-* Distributed systems
-* Complex problem solving
-* Turning ideas into operating systems for industries
+Exploring orchestration, agents, context engineering and long-term memory systems.
 
 ---
 
-## GitHub Analytics
+### Developer Infrastructure
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-</p>
+Interested in tooling that improves how engineers build and ship software.
 
 ---
 
-## Contribution Graph
+# Current Obsessions
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Visitor Count
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+* Distributed Systems
+* AI Infrastructure
+* Cloud Architecture
+* System Design
+* Developer Experience
+* Product Strategy
+* Human Computer Interaction
 
 ---
 
-## A Quote I Try To Build By
+# Architecture Mindset
 
-> "The engineer's job is not writing code.
->
-> The engineer's job is reducing complexity."
+```text
+Observe
+  ↓
+Model
+  ↓
+Abstract
+  ↓
+Design
+  ↓
+Validate
+  ↓
+Scale
+```
 
 ---
 
 <div align="center">
 
-### Building systems for the long game.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-*"Anyone can build features."*
+<br><br>
 
-*"The interesting challenge is building systems that make those features inevitable."*
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -254,6 +161,14 @@ Building scalable systems and products with architecture-first thinking.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
+## "The engineer's responsibility isn't writing code."
+
+## "It's reducing complexity."
+
+<br>
+
+### Building systems for the long game.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&animation=fadeIn&color=gradient"/>
 
 </div>
