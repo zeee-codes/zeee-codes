@@ -1,57 +1,91 @@
-<div align="center">
+# Hi, I'm Zaid 👋
 
-# 🛑 MOHAMMED ZAID
-### `Software Generalist` ⸰ `System Architect` ⸰ `MERN Stack`
+::: {align="center"}
+`<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=System+Architect.;Problem+Solver.;Building+Systems+that+Scale.;Engineering+Products+with+Purpose." />`{=html}
+:::
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=60%25+System+Designer+%E2%9A%99%EF%B8%8F;40%25+Coder+%F0%9F%92%BB;Generalist+by+Choice+%F0%9F%8C%90;Currently+Interning+@+Kaevron+Tech+%F0%9F%8F%A2" alt="Typing SVG" />
+------------------------------------------------------------------------
 
-*Code is cheap. System design is everything.*
+## About Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN) [<img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=Web&logoColor=white" />](https://your-portfolio.com)
+I don't see software as code.
 
-</div>
+I see it as **systems, incentives, constraints, workflows, and people
+interacting at scale**.
 
----
+My focus lies at the intersection of:
 
-### ⚡ THE PROTOCOL
+-   System Architecture
+-   AI Products
+-   Distributed Systems
+-   Developer Infrastructure
+-   Human-Centered Engineering
 
-| 🚀 **Deploying** | 🎯 **Daily Grind** | 🧠 **Mastering** |
-| :--- | :--- | :--- |
-| **Syncell** <br> *(MERN Medical OS Timeline)* | **5** DSA Questions | Low-Level System Design |
-| **3D Portfolio** <br> *(Isometric, Scroll-Triggered)* | **1** CSS Landing Page | Dark-Mode, High-Contrast UI/UX |
+I enjoy breaking ambiguous problems into elegant systems that survive
+complexity.
 
----
+------------------------------------------------------------------------
 
-### ⚙️ ARSENAL
+## Architecture Mindset
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+``` text
+Problem → Constraints → System Design → Trade-offs → Execution → Scale
+```
 
----
+> Anyone can build features.
+>
+> I prefer building systems that make features inevitable.
 
-### 📊 TELEMETRY
+------------------------------------------------------------------------
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Streak" width="48%" />
-</div>
+## Current Focus
 
----
+-   Designing AI-native products
+-   Learning distributed systems and cloud architecture
+-   Building startup products from first principles
+-   Exploring developer tools and infrastructure
 
-### 🔋 OFF-GRID
+------------------------------------------------------------------------
 
-<div align="center">
-  <kbd>⚽ Football Tactics</kbd> &nbsp; | &nbsp; <kbd>🏰 Tower-Rush Strategy</kbd> &nbsp; | &nbsp; <kbd>🏋️ Strength Training</kbd>
-</div>
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Next
+JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+
+------------------------------------------------------------------------
+
+## GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>`{=html}
+`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## Philosophy
+
+> Great engineers write code.
+>
+> Exceptional engineers design systems.
+>
+> The rare ones redefine the problem itself.
+
+------------------------------------------------------------------------
+
+### Building for the long game.
