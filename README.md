@@ -18,6 +18,39 @@
 </div>
 
 ---
+<div align="center">
+
+## Connect
+
+<a href="https://zaid-sayyed.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Digital%20Workspace-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+</a>
+
+<br><br>
+
+<a href="https://zaid-sayyed.vercel.app/" target="_blank">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,typescript,nodejs,nextjs,react,postgres,redis,supabase,git,github,figma,vscode,cloudflare" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Architecture-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Systems-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Engineering-2563EB?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Building-Systems%20That%20Scale-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Thinking-In%20Tradeoffs-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optimizing-For%20Humans-334155?style=flat-square"/>
+
+</div>
 
 # About Me
 
